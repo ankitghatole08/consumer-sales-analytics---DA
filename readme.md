@@ -18,6 +18,19 @@ The solution covers the complete analytics lifecycle:
 - Executive Business Reporting
 
 ---
+# Dashboard Screenshots
+
+## Overview
+
+![Overview](dashboard/screenshots/dashboard.png)
+
+---
+
+## Sales Analytics
+
+![Overview](dashboard/screenshots/SalesAnalytics.png)
+
+---
 
 ## Dataset
 
@@ -340,14 +353,4 @@ Sales seasonality is one of the strongest drivers of performance.
 
 ---
 
-# Dashboard Screenshots
 
-## Overview
-
-![Overview](dashboard/screenshots/dashboard.png)
-
----
-
-## Sales Analytics
-
-![Overview](dashboard/screenshots/SalesAnalytics.png)
